@@ -1,0 +1,23 @@
+/* Global Styles */
+body {
+    background-image: url('https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg');
+    background-size: cover;
+    color: #ffffff; /* Set text color to white */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  ol {
+    padding-left: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ffffff; /* Set link color to white */
+  }
+  
